@@ -3,3 +3,10 @@ pandas
 matplotlib
 ipywidgets
 jupyter_ui_poll
+request
+json
+BeautifulSoup
+display
+Image
+clear_output
+HTML
